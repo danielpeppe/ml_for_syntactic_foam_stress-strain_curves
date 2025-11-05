@@ -1,6 +1,3 @@
-## Description
-This repository contains the code used to train, validate, and evaluate the ML models trained to produce point-wise predictions of stress-strain curves. This was originally applied to predicting the compressive behaviour of syntactic foams for varying material parameters, however, it may be applied effectively to other materials and material parameters with different stress-strain responses.
-
 ## Setup
 
 1. Setup your Python environment using venv (Windows):
