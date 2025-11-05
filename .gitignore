@@ -31,7 +31,6 @@ report_files/
 *.json
 *.yaml
 *.yml
-*.txt
 *.pdf
 *.docx
 *.doc
