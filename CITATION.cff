@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "The influence of volume fraction on the compressive behaviour of a polymeric syntactic foam: From manufacturing to machine learning-based modelling"
+authors:
+  - family-names: Ferguson
+    given-names: Edward
+  - family-names: Oggioni
+    given-names: Felipe
+  - family-names: Peppe
+    given-names: Daniel
+  - family-names: Whiteside
+    given-names: Sam
+  - family-names: Fieldsend
+    given-names: Henry
+  - family-names: Tasdemir
+    given-names: Burcu
+journal: "Materials Today Communications"
+volume: 50
+pages: "114339"
+year: 2026
+issn: "2352-4928"
+doi: "10.1016/j.mtcomm.2025.114339"
+url: "https://www.sciencedirect.com/science/article/pii/S235249282502851X"
+keywords:
+  - Syntactic foam
+  - Volume fraction
+  - Manufacturing
+  - RVE modelling
+  - Machine learning
+  - Surrogate modelling
