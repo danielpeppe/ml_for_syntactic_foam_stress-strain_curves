@@ -33,5 +33,3 @@ If you use this work in academic or industrial research, please cite:
 > *The influence of volume fraction on the compressive behaviour of a polymeric syntactic foam: From manufacturing to machine learning-based modelling*.
 > Materials Today Communications, 50, 114339.  
 > https://doi.org/10.1016/j.mtcomm.2025.114339
-
-A machine-readable citation is also provided in [`citation.cff`](./citation.cff) for use with GitHub and reference managers.
